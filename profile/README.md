@@ -22,7 +22,11 @@ Currently, we are focused on contributing to:
 ### Hardware
 
 The Hardware division is focused on building original hardware projects in open
-source. Current efforts focus around RISC-V architectures.
+source. Current efforts focus around 4 main projects:
+1. RISC-V core
+2. A custom devboard team
+3. Miscellaneous cores and peripherals team
+4. A teaching-focused showpiece team
 
 ### Outreach
 
